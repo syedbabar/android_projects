@@ -1,0 +1,92 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/active_tab_color</item>
+        <item name="colorPrimaryDark">@color/active_tab_color</item>
+        <item name="colorAccent">#666565</item>
+        <!--        <item name="otpViewStyle">@style/OtpWidget.OtpView</item>-->
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <!--        <item name="otpViewStyle">@style/OtpWidget.OtpView</item>-->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+    </style>
+
+    <!--    <style name="LoginTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+    <!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>-->
+    <!--        <item name="android:windowDisablePreview">true</item>-->
+    <!--        <item name="android:windowContentTransitions">true</item>-->
+    <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+    <!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+    <!--        <item name="colorAccent">@color/colorAccent</item>-->
+    <!--        <item name="android:windowTranslucentStatus">true</item>-->
+    <!--        <item name="otpViewStyle">@style/OtpWidget.OtpView</item>-->
+
+    <!--    </style>-->
+
+    <style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/active_tab_color</item>
+        <item name="android:textColorSecondary">@color/inactive_tab_color</item>
+    </style>
+
+    <style name="DrawerNavTextStyle">
+        <item name="android:fontFamily">@font/oswald_regular</item>
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:textColorSecondary">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--To change the pointer color of Edittext-->
+    <style name="CustomEditTextTheme" parent="TextAppearance.AppCompat">
+        <item name="colorControlActivated">@color/active_tab_color</item>
+    </style>
+
+    <style name="MyTabTextAppearance" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimaryDark">@color/active_tab_color</item>
+        <item name="colorAccent">@color/active_tab_color</item>
+    </style>
+
+    <style name="ratingStar">
+
+    </style>
+
+    <style name="myalertdialog" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="android:textColor">@color/active_tab_color</item>
+    </style>
+
+    <style name="tab_text" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:fontFamily">@font/oswald_regular</item>
+        <item name="android:textSize">@dimen/_14ssp</item>
+    </style>
+
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:fontFamily">@font/ptsans_regular</item>
+    </style>
+
+</resources>

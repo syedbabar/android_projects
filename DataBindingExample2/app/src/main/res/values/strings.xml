@@ -1,0 +1,389 @@
+<resources>
+    <string name="app_name">Boxes</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--    <string name="nav_header_title">Android Studio</string>-->
+    <!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
+    <!--    <string name="nav_header_desc">Navigation header</string>-->
+    <!--    <string name="action_settings">Settings</string>-->
+
+    <string name="title_activity_main">Main Activity</string>
+
+    <string name="price">7 Days @kwd 495.00</string>
+    <string name="restaurant_category_subscription">Single Restaurant Subscription</string>
+    <string name="visa_card">Visa Card</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="forgot">Forgot</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="skip">SKIP</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="by_creating_your_account_you_re_agree_with_our">By creating your account, you\'re agree with our</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="what_s_your_age">What\'s Your Age?</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="what_s_your_preferred_diet">What\'s Your Preferred Diet?</string>
+    <string name="your_height">Your Height?</string>
+    <string name="feet">Feet</string>
+    <string name="your_weight">Your Weight?</string>
+    <string name="kgs">Kgs</string>
+    <string name="your_bmi">Your BMI?</string>
+    <string name="inches">Inches</string>
+    <string name="your_allergies_if_any">Your Allergies (if any)</string>
+    <string name="enter_your_allergies">Enter Your Allergies</string>
+    <string name="additional_preference">Additional Preference</string>
+    <string name="enter_additional_preferences">Enter Additional Preferences</string>
+    <string name="proceed">Proceed</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.     It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English.</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="please_enter_the_verification_code">Please enter the verification code</string>
+    <string name="_1234567890">+1234567890</string>
+    <string name="haven_t_received_the_code_yet">Haven\'t received the code yet?</string>
+    <string name="resend">Resend</string>
+    <string name="submit">Submit</string>
+    <string name="calendar_detail">Calendar Detail</string>
+    <string name="days_of_the_week">Days Of The Week</string>
+    <string name="restarant_menu">Restarant Menu</string>
+    <string name="Continue">Continue</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="select_date_and_choose_your_meal">Select Date and Choose Your Meal</string>
+    <string name="selected">Selected</string>
+    <string name="deliver">Deliver</string>
+    <string name="card_info">CARD INFO</string>
+    <string name="flower">Flower</string>
+    <string name="amuse_flower_kwd_495_00">Amuse Flower @kwd 495.00</string>
+    <string name="name_on_card">Name On Card</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="cvc">CVC</string>
+    <string name="apply">Apply</string>
+    <string name="_7_days_kwd_495_00">7 Days @kwd 495.00</string>
+    <string name="save_card_info">Save Card Info</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="current_location">Current Location</string>
+    <string name="enter_your_current_location">Enter Your Current Location</string>
+    <string name="building_number">Building Number</string>
+    <string name="enter_your_building_number">Enter Your Building Number</string>
+    <string name="street">Street</string>
+    <string name="enter_your_street_number">Enter Your Street Number</string>
+    <string name="area">Area</string>
+    <string name="enter_area">Enter Area</string>
+    <string name="floor_unit_option">Floor/Unit (Option)</string>
+    <string name="floor_unit">Floor/Unit</string>
+    <string name="net_to_ride">Net to ride</string>
+    <string name="flower_detail">FLOWER DETAIL</string>
+    <string name="in_stock">In stock</string>
+    <string name="amuse_flower">Amuse Flower</string>
+    <string name="kwd_95_00">\@kwd 95.00</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="arabia_wedding">Arabia Wedding</string>
+    <string name="flower_and_chocolate">Flower and chocolate</string>
+    <string name="restaurant_menu">Restaurant menu</string>
+    <string name="restaurant_selection">Restaurant Selection</string>
+    <string name="minimun_restaurant">0</string>
+    <string name="maximum_restaurant">4</string>
+    <string name="restaurant_name">Al Boom Steak &amp; Seafood Restaurant</string>
+    <string name="date">17 - June - 2019</string>
+    <string name="history_detail">History Detail</string>
+    <string name="meals">Meals</string>
+    <string name="boxes">BOXES</string>
+    <string name="product_quantity">2</string>
+    <string name="product_name">Flower</string>
+    <string name="product_currency">\@KWD</string>
+    <string name="product_price">495,00</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="contact_info">Contact Info</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="discount">Discount</string>
+    <string name="do_you_have_a_voucher">Do you have a voucher?</string>
+    <string name="total">Total</string>
+    <string name="delivery_details">Delivery Details:</string>
+    <string name="delivery_details_title">Delivery Details</string>
+    <string name="days">6</string>
+    <string name="working_days">Working days</string>
+    <string name="dummy_content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed do eiusmod tempor incididint ut labore et dolore magna.</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="asap_60_min">ASAP (60 min)</string>
+    <string name="payment">Payment</string>
+    <string name="cash_on_delivery">Cash on delivery</string>
+    <string name="place_order">Place Order</string>
+    <string name="profile_edit">PROFILE EDIT</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+    <string name="kaseem_sab_haddad">Kaseem sab haddad</string>
+    <string name="al_bidea">Al-Bidea</string>
+    <string name="_24_days_left">24 Days Left</string>
+    <string name="choose_your_meal">Choose your meal</string>
+    <string name="abc_restaurant">Abc Restaurant</string>
+    <string name="Restaurant_name">Restaurant Name</string>
+    <string name="house_of_coca">House of coca</string>
+    <string name="subscription_plan">Subscription Plan</string>
+    <string name="order_4568">Order #4568</string>
+    <string name="order_text">Is confirmed and will be delivered to you directly by the service provider</string>
+    <string name="done">Done</string>
+    <string name="order">Order</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="days_week">days</string>
+    <string name="serial_number">1.</string>
+    <string name="heading">Lorem Ipsum</string>
+    <string name="description">Lorem</string>
+    <string name="flower_heading">heading</string>
+    <string name="flower_content">content</string>
+    <string name="category">category</string>
+    <string name="menu_name">Menu Name</string>
+    <string name="menu_description">Menu Description</string>
+    <string name="calories">Calories</string>
+    <string name="calories_count">23g</string>
+    <string name="carbs">Carbs</string>
+    <string name="carbs_count">23g</string>
+    <string name="protein">Protein</string>
+    <string name="protein_count">23g</string>
+    <string name="rating">3.6</string>
+    <string name="plan_name">Plan Name</string>
+    <string name="validity">Validity</string>
+    <string name="start_date">Start date</string>
+    <string name="to">to</string>
+    <string name="end_date">End date</string>
+    <string name="package_type">Package Type</string>
+    <string name="title">Title</string>
+    <string name="notification_description">Description</string>
+    <string name="date_time">Date and time</string>
+    <string name="order_date">Date</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="add_review">Add review</string>
+    <string name="subscription_price">Subscription Price</string>
+    <string name="status">status</string>
+    <string name="order_history">Order History</string>
+    <string name="my_package">My Package</string>
+    <string name="notification">Notification</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="faqs">Faqs</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="single_restaurant_subscription">Single Restaurant subscription</string>
+    <string name="multi_restaurant_subscription">Multi Restaurant subscription</string>
+    <string name="menu">Menu</string>
+    <string name="subscription">Subscription</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="snacks">Snacks</string>
+    <string name="freesia">Freesia</string>
+    <string name="gerberas">Gerberas</string>
+    <string name="daffodil">Daffodil</string>
+    <string name="bouquet">Bouquet</string>
+    <string name="carnations">Carnations</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message">Message</string>
+    <string name="message_content">Are you sure want to quit?</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="toast_message_category">Please select the correct category</string>
+    <string name="restaurant_type">Chinese</string>
+    <string name="chinese">Chinese</string>
+    <string name="russian_salad">Russian Salad</string>
+    <string name="flower_name">Flower Name</string>
+    <string name="flower_description">Flower Description</string>
+    <string name="arabia_weddings">Arabia Weddings</string>
+    <string name="bliss_flower_boutique">Bliss Flower Boutique</string>
+    <string name="perumal_flowers_shop">Perumal Flowers Shop</string>
+    <string name="the_best_florists">The Best Florists</string>
+    <string name="flowers_and_chocolate">Flowers And Chocolate</string>
+    <string name="flower_shop">Flower Shop</string>
+    <string name="we_create_emotions">We Create Emotions</string>
+    <string name="lorem_ipsum_dolor">Lorem ipsum dolor</string>
+    <string name="food">Food</string>
+    <string name="cosmetics">Cosmetics</string>
+    <string name="groceries">Groceries</string>
+    <string name="health">Health</string>
+    <string name="pet">Pet</string>
+    <string name="home_category">Home Category</string>
+    <string name="select_card">Select Card</string>
+    <string name="ok">Ok</string>
+    <string name="search_home">Search restaurant and dishes</string>
+    <string name="search_flower">Search flowers shop</string>
+    <string name="show_menu">Show Menu</string>
+    <string name="subcribed">Subscribed</string>
+    <string name="kwd_495">\@kwd 495.00</string>
+    <string name="seven_meal">7 meal</string>
+    <string name="fourteen_meal">14 meal</string>
+    <string name="twentyone_meal">21 meal</string>
+    <string name="thirty_meal">30 meal</string>
+    <string name="flwr_boutique">FLWR Boutique</string>
+    <string name="house_of_joy">House Of Joy</string>
+    <string name="blossom_flower">Blossom Flowers</string>
+    <string name="celebrate_the_moments">Celebrate the Moments</string>
+    <string name="get_ready_to_amused">Get Ready to Amused</string>
+    <string name="delivering_your_emotions">Delivering your emotions</string>
+    <string name="strawberry_with_white_chocolate">Strawberry with white chocolate</string>
+    <string name="it_contain_white_chocolate">it contain white chocolate</string>
+    <string name="twenty_three">23</string>
+    <string name="four_gram">4g</string>
+    <string name="twelf_gram">12g</string>
+    <string name="four_point_five">4.5</string>
+    <string name="two">2</string>
+    <string name="order_history_date">01-Jan-2019</string>
+    <string name="package_start_date">01-Jan-2019</string>
+    <string name="package_end_date">01-Feb-2019</string>
+    <string name="rating_title">Rating</string>
+    <string name="multi_restaurant">Multi Restaurant</string>
+    <string name="single_restaurant">Single Restaurant</string>
+    <string name="three_point_four">3.4</string>
+    <string name="i_agree_to_the_terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="checkout">Checkout</string>
+    <string name="change_language">Change Language</string>
+    <string name="current_selection">Current Selection is:</string>
+    <string name="please_select_atleast_two">Please select at least 2 restaurants!</string>
+    <string name="please_confirm_your_country_code_amp_enter_your_phone_number"><![CDATA[Please confirm your country code & enter your phone number]]></string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="please_enter_the_verification_code_sent_n_to">Please enter the verification code sent  to</string>
+    <string name="address">Address</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="location">Location</string>
+    <string name="BMI">BMI</string>
+    <string name="settings">Settings</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="your_location_settings_is_set_to_off_please_enable_location_to_use_this_app">Your Location Settings is set to \'Off\'. \nPlease Enable Location to use this app</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="you_haven_t_ssubscribed_yet">You haven\'t subscribed yet</string>
+    <string name="search">Search…</string>
+    <string name="details">Details</string>
+
+    <string-array name="faq_serialno">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+    </string-array>
+
+    <string-array name="faq_title">
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+    </string-array>
+
+    <string-array name="faq_subtitle">
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+        <item>Lorem ipsum dolor</item>
+    </string-array>
+
+    <string name="new_phone_number">New Phone Number</string>
+    <string name="current_phone_number">Current Phone Number</string>
+    <string name="Change_phone_number">Change Phone Number</string>
+    <string name="by_signing_bottom_sheet">By signing in, you confirm that you agree \n to our Terms of Use and have read and \n understood our Privacy Policy</string>
+    <string name="you_need_an_account_to_continue">You need an account to continue</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tax">Tax</string>
+    <string name="additional_instructions">Additional Instructions</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="you_are_not_registered">You are not registered</string>
+    <string name="ecommerce">Ecommerce</string>
+    <string name="no_orders_yet">No Orders Yet!</string>
+    <string name="no_notification_yet">No New Notification!</string>
+    <string name="survey">Survey</string>
+    <string name="change_number">Change Number</string>
+    <string name="app_version">App Version</string>
+    <string name="app_version_text">App for Boxes user</string>
+    <string name="top_questions">Top Questions</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="please_fill_the_required_field">Please fill the required field</string>
+    <string name="no_network">No Route To Host</string>
+    <string name="no_email">No Email</string>
+    <string name="no_location_provided">No location provided!</string>
+    <string name="no_building_provided">No building provided!</string>
+    <string name="no_street_provided">No street provided!</string>
+    <string name="no_area_provided">No area provided!</string>
+    <string name="please_enter_your_address">Please Enter Your Address</string>
+    <string name="you_must_agree_with_our_terms_and_conditions">You must agree with our terms and conditions</string>
+    <string name="please_provide_contact_info">Please provide your contact info!</string>
+    <string name="please_provide_location">Please provide your location!</string>
+    <string name="no_contact_info">No contact info provided!</string>
+    <string name="search_here">Search \'Here\'</string>
+    <string name="failed">Failed!!</string>
+    <string name="permission_required_to_access_gallery">Permission required to access gallery</string>
+    <string name="some_error">Some Error!</string>
+    <string name="please_select_an_image">Please select an image..</string>
+    <string name="by_creating_your_account_you_agree_with_our_n_terms_and_conditions">By creating your account, you agree with our Terms and Conditions</string>
+    <string name="survey_form">SURVEY FORM</string>
+    <string name="version">Version:</string>
+    <string name="close">Close</string>
+    <string name="caption_name">Caption Name</string>
+    <string name="subscribed_now">SUBSCRIBE NOW</string>
+    <string name="something_went_wrong">Something went wrong. Please check your fields and image and try again.</string>
+    <string name="please_provide_delivery_details">Please provide delivery details</string>
+    <string name="please_select_a_restaurant">Please select a restaurant</string>
+    <string name="calendar">Calender</string>
+    <string name="from">From:</string>
+    <string name="to_">To:</string>
+    <string name="select_date">Select Date</string>
+    <string name="place_order_only_after_two_days">You can\'t place order before </string>
+    <string name="update_order">Update Order</string>
+    <string name="confirm_selection">Confirm Selection</string>
+    <string name="return_to_home">Return To Home</string>
+    <string name="no_packages_found">No Packages Found!</string>
+    <string name="selected_restaurant">Selected Restaurant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_example">ExampleActivity</string>
+    <!--    <string name="term_and_conditions_text"><![CDATA[By creating your account you agree with our Terms & Conditions]]></string>-->
+
+</resources>

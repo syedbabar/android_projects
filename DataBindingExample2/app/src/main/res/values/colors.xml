@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="active_tab_color" tools:ignore="MissingDefaultResource">#5DC04B</color>
+    <color name="inactive_tab_color">#B1B1B1</color>
+
+    <color name="dark_grey">#040406</color>
+    <color name="light_grey">#CACACA</color>
+
+    <color name="dim_grey">#585858</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="green">#42D62C</color>
+    <color name="red">#FA0202</color>
+    <color name="blue">#E60133FC</color>
+    <color name="lightGreen">#FFFFFF</color>
+    <color name="lightRed">#99FA0202</color>
+    <color name="lightBlue">#7E0133FC</color>
+    <color name="alpha_green">#8042D62C</color>
+    <color name="alpha_red">#80FA0202</color>
+    <color name="alpha_blue">#800133FC</color>
+    <color name="black">#000</color>
+    <color name="mint_orange">#f9a825</color>
+</resources>

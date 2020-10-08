@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مربعات</string>
+    <string name="title_activity_splash">Splash Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">افتح</string>
+    <string name="drawer_close">قريب</string>
+    <string name="title_activity_home">النشاط المنزلي</string>
+    <string name="navigation_drawer_open">فتح درج التنقل</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <!--    <string name="nav_header_title">أندرويد ستوديو</string>-->
+    <!--    <string name="nav_header_subtitle">android.studio@android.com</string>-->
+    <!--    <string name="nav_header_desc">Navigation header</string>-->
+    <!--    <string name="action_settings">Settings</string>-->
+
+    <string name="title_activity_main">النشاط الرئيسي</string>
+
+    <string name="price">سبعة أيام @ دينار كويتي أربعة مائة و خمسة و تسعون.صفر</string>
+    <string name="restaurant_category_subscription">اشتراك مطعم واحد</string>
+    <string name="visa_card">بطاقة فيزا</string>
+    <string name="credit_card">بطاقة ائتمان</string>
+    <string name="forgot">نسيت</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="skip">تخطى</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">عربى</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="password">كلمه السر</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="sign_up">سجل</string>
+    <string name="forgot_password">هل نسيت كلمة المرور؟</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="last_name">الكنية</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="create_an_account">انشئ حساب</string>
+    <string name="by_creating_your_account_you_re_agree_with_our">بإنشاء حسابك ، أنت توافق على موقعنا</string>
+    <string name="terms_and_conditions">الأحكام والشروط</string>
+    <string name="what_s_your_age">ما هو عمرك؟</string>
+    <string name="enter_age">أدخل العمر</string>
+    <string name="what_s_your_preferred_diet">ما هو النظام الغذائي المفضل لديك؟</string>
+    <string name="your_height">طولك؟</string>
+    <string name="feet">أقدام</string>
+    <string name="your_weight">وزنك؟</string>
+    <string name="kgs">كلغ</string>
+    <string name="your_bmi">مؤشر كتلة الجسم الخاص بك؟</string>
+    <string name="inches">بوصة</string>
+    <string name="your_allergies_if_any">الحساسية الخاصة بك (إن وجدت)</string>
+    <string name="enter_your_allergies">أدخل الحساسية الخاصة بك</string>
+    <string name="additional_preference">تفضيل إضافي</string>
+    <string name="enter_additional_preferences">أدخل تفضيلات إضافية</string>
+    <string name="proceed">تقدم</string>
+    <string name="dummy_text">أبجد هوز هو مجرد دمية النص لصناعة الطباعة والتنضيد. لقد كان Lorem Ipsum هو النص الوهمي القياسي في هذه الصناعة منذ القرن الخامس عشر الميلادي ، عندما أخذت طابعة غير معروفة لوحًا من النوع وتدافعت لصنع كتاب عينات من الأنواع. لقد نجا ليس فقط خمسة قرون ، ولكن أيضا قفزة في التنضيد الإلكتروني ، تبقى دون تغيير أساسي. لقد تم نشره في الستينيات من القرن الماضي من خلال إصدار أوراق Letraset التي تحتوي على مقاطع Lorem Ipsum ، ومؤخراً مع برامج النشر المكتبي مثل Aldus PageMaker بما في ذلك إصدارات Lorem Ipsum. إنها حقيقة ثابتة منذ فترة طويلة وهي أن القارئ سيصرف انتباهه عن المحتوى المقروء للصفحة عند النظر في تصميمها. الهدف من استخدام Lorem Ipsum هو أنه يحتوي على توزيع طبيعي أكثر أو أقل من الحروف ، بدلاً من استخدام \ المحتوى هنا ، والمحتوى هنا \ ، مما يجعله يبدو مقروءًا باللغة الإنجليزية.</string>
+    <string name="verification_code">شيفرة التأكيد</string>
+    <string name="please_enter_the_verification_code">الرجاء إدخال رمز التحقق</string>
+    <string name="_1234567890">+1234567890</string>
+    <string name="haven_t_received_the_code_yet">لم تستلم الكود بعد؟</string>
+    <string name="resend">إعادة إرسال</string>
+    <string name="submit">تقديم</string>
+    <string name="calendar_detail">تفاصيل التقويم</string>
+    <string name="days_of_the_week">أيام الأسبوع</string>
+    <string name="restarant_menu">قائمة المطاعم</string>
+    <string name="Continue">استمر</string>
+    <string name="schedule">جدول</string>
+    <string name="select_date_and_choose_your_meal">حدد التاريخ واختر وجبتك</string>
+    <string name="selected">المحدد</string>
+    <string name="deliver">ايصال</string>
+    <string name="card_info">بطاقة المعلومات</string>
+    <string name="flower">زهرة</string>
+    <string name="amuse_flower_kwd_495_00">يروق زهرة @ دينار كويتي أربعة مائة و خمسة و تسعون.صفر</string>
+    <string name="name_on_card">الاسم على البطاقة</string>
+    <string name="enter_card_number">أدخل رقم البطاقة</string>
+    <string name="mm_yy">مم / إنهاء</string>
+    <string name="cvc">سي</string>
+    <string name="apply">تطبيق</string>
+    <string name="multi_restaurant_subscription">متعددة مطعم الاشتراك</string>
+    <string name="_7_days_kwd_495_00">سبعة أيام @ دينار كويتي أربعة مائة و خمسة و تسعون.صفر</string>
+    <string name="save_card_info">حفظ معلومات البطاقة</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="new_password">كلمة سر جديدة</string>
+    <string name="current_location">الموقع الحالي</string>
+    <string name="enter_your_current_location">أدخل موقعك الحالي</string>
+    <string name="building_number">رقم المبنى</string>
+    <string name="enter_your_building_number">أدخل رقم المبنى الخاص بك</string>
+    <string name="street">شارع</string>
+    <string name="enter_your_street_number">أدخل رقم الشارع الخاص بك</string>
+    <string name="area">منطقة</string>
+    <string name="enter_area">دخول المنطقة</string>
+    <string name="floor_unit_option">الكلمة / الوحدة (الخيار)</string>
+    <string name="floor_unit">الكلمة / وحدة</string>
+    <string name="net_to_ride">صافي لركوب</string>
+    <string name="flower_detail">زهرة التفاصيل</string>
+    <string name="in_stock">في المخزن</string>
+    <string name="amuse_flower">يروق زهرة</string>
+    <string name="kwd_95_00">\@دينار كويتي خمسة و تسعون.صفر</string>
+    <string name="product_description">وصف المنتج</string>
+    <string name="product_dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="add_to_cart">أضف إلى السلة</string>
+    <string name="arabia_wedding">عرس العرب</string>
+    <string name="flower_and_chocolate">زهرة والشوكولاته</string>
+    <string name="restaurant_menu">قائمة المطاعم</string>
+    <string name="restaurant_selection">اختيار المطعم</string>
+    <string name="minimun_restaurant">0</string>
+    <string name="maximum_restaurant">4</string>
+    <string name="restaurant_name">مطعم البوم ستيك ومطعم المأكولات البحرية</string>
+    <string name="date">سبعة عشر يونيو - ألفين و تسعة عشر</string>
+    <string name="history_detail">التاريخ التفاصيل</string>
+    <string name="meals">وجبات</string>
+    <string name="boxes">مربعات</string>
+    <string name="product_quantity">إثنان</string>
+    <string name="product_name">زهرة</string>
+    <string name="product_currency">\@دينار كويتي</string>
+    <string name="product_price">أربعة مائة و خمسة و تسعون,صفر</string>
+    <string name="sub_total">المجموع الفرعي</string>
+    <string name="abc_gmail_com">اي بي سي@جوجل.كوم</string>
+    <string name="contact_info">معلومات الاتصال</string>
+    <string name="delivery_fee">رسوم التوصيل</string>
+    <string name="discount">خصم</string>
+    <string name="do_you_have_a_voucher">هل لديك قسيمة؟</string>
+    <string name="total">مجموع</string>
+    <string name="delivery_details">تفاصيل التسليم:</string>
+    <string name="delivery_details_title">تفاصيل التسليم</string>
+    <string name="days">ستة</string>
+    <string name="working_days">أيام العمل</string>
+    <string name="dummy_content">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed do eiusmod tempor incididint ut labore et dolore magna.</string>
+    <string name="delivery_time">موعد التسليم</string>
+    <string name="asap_60_min">في اسرع وقت ممكن (ستون دقيقة)</string>
+    <string name="payment">دفع</string>
+    <string name="cash_on_delivery">الدفع عند الاستلام</string>
+    <string name="place_order">مكان الامر</string>
+    <string name="profile_edit">ملف تعريف التحرير</string>
+    <string name="save">حفظ</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="kaseem_sab_haddad">قاسم ساب حداد</string>
+    <string name="al_bidea">آل Bidea</string>
+    <string name="_24_days_left">أربعة و عشرون يوما اليسار</string>
+    <string name="choose_your_meal">اختر وجبتك</string>
+    <string name="abc_restaurant">مطعم اي بي سي</string>
+    <string name="Restaurant_name">اسم المطعم</string>
+    <string name="house_of_coca">بيت الكاكاو</string>
+    <string name="subscription_plan">خطة الاشتراك</string>
+    <string name="order_4568">اطلب # أربعة آلاف و خمسة مائة و ثمانية و ستون</string>
+    <string name="order_text">تم التأكيد وسيتم تسليمه إليك مباشرة من قبل مزود الخدمة</string>
+    <string name="done">منجز</string>
+    <string name="order">طلب</string>
+    <string name="pause">وقفة</string>
+    <string name="resume">استئنف</string>
+    <string name="days_week">أيام</string>
+    <string name="serial_number">1.</string>
+    <string name="heading">أبجد هوز</string>
+    <string name="description">أبجد</string>
+    <string name="flower_heading">عنوان</string>
+    <string name="flower_content">يحتوي</string>
+    <string name="category">الفئة</string>
+    <string name="menu_name">اسم القائمة</string>
+    <string name="menu_description">وصف القائمة</string>
+    <string name="calories">سعرات حراريه</string>
+    <string name="calories_count">ثلاثة و عشرون ز</string>
+    <string name="carbs">الكربوهيدرات</string>
+    <string name="carbs_count">ثلاثة و عشرون ز</string>
+    <string name="protein">بروتين</string>
+    <string name="protein_count">ثلاثة و عشرون ز</string>
+    <string name="rating">ثلاثة.ستة</string>
+    <string name="plan_name">اسم الخطة</string>
+    <string name="validity">صلاحية</string>
+    <string name="start_date">تاريخ البدء</string>
+    <string name="to">إلى</string>
+    <string name="end_date">تاريخ الانتهاء</string>
+    <string name="package_type">نوع الحزمة</string>
+    <string name="title">عنوان</string>
+    <string name="notification_description">وصف</string>
+    <string name="date_time">التاريخ و الوقت</string>
+    <string name="order_date">تاريخ</string>
+    <string name="restaurant">مطعم</string>
+    <string name="add_review">إضافة مراجعة</string>
+    <string name="subscription_price">سعر الاشتراك</string>
+    <string name="status">الحالة</string>
+    <string name="order_history">تاريخ الطلب</string>
+    <string name="my_package">حزمة بلدي</string>
+    <string name="notification">تنبيه</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="faqs">أسئلة وأجوبة</string>
+    <string name="privacy_policy">سياسة خاصة</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="single_restaurant_subscription">اشتراك مطعم واحد</string>
+    <string name="menu">قائمة طعام</string>
+    <string name="subscription">اشتراك</string>
+    <string name="breakfast">اشتراك</string>
+    <string name="lunch">غداء</string>
+    <string name="dinner">وجبة عشاء</string>
+    <string name="snacks">وجبات خفيفة</string>
+    <string name="freesia">فريزيا</string>
+    <string name="gerberas">Gerberas</string>
+    <string name="daffodil">النرجس البري</string>
+    <string name="bouquet">باقة أزهار</string>
+    <string name="carnations">القرنفل</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="message">رسالة</string>
+    <string name="message_content">هل أنت متأكد تريد إنهاء؟</string>
+    <string name="user_profile">ملف تعريفي للمستخدم</string>
+    <string name="toast_message_category">يرجى اختيار الفئة الصحيحة</string>
+    <string name="restaurant_type">صينى</string>
+    <string name="chinese">صينى</string>
+    <string name="russian_salad">سلطة روسية</string>
+    <string name="arabia_weddings">حفلات الزفاف العربية</string>
+    <string name="bliss_flower_boutique">بليس فلاور بوتيك</string>
+    <string name="perumal_flowers_shop">محل أزهار بيرومال</string>
+    <string name="the_best_florists">أفضل باعة الزهور</string>
+    <string name="flowers_and_chocolate">الزهور والشوكولاته</string>
+    <string name="flower_shop">محل زهور</string>
+    <string name="we_create_emotions">نخلق العواطف</string>
+    <string name="lorem_ipsum_dolor">أبجد هوز دولوم</string>
+    <string name="flower_name">اسم الزهرة</string>
+    <string name="flower_description">وصف زهرة</string>
+    <string name="food">طعام</string>
+    <string name="cosmetics">مستحضرات التجميل</string>
+    <string name="groceries">محلات البقالة</string>
+    <string name="health">الصحة</string>
+    <string name="pet">حيوان اليف</string>
+    <string name="home_category">الفئة الرئيسية</string>
+    <string name="select_card">اختر البطاقة</string>
+    <string name="ok">حسنا</string>
+    <string name="search_home">بحث مطعم والأطباق</string>
+    <string name="search_flower">بحث متجر الزهور</string>
+    <string name="show_menu">قائمة العرض</string>
+    <string name="subcribed">المشترك</string>
+    <string name="kwd_495">\@دينار كويتي أربعة مائة و خمسة و تسعون.صفر</string>
+    <string name="seven_meal">سبعة وجبة</string>
+    <string name="fourteen_meal">أربعة عشر وجبة</string>
+    <string name="twentyone_meal">واحد و عشرون وجبة</string>
+    <string name="thirty_meal">ثلاثون وجبة</string>
+    <string name="flwr_boutique">فلاور بوتيك</string>
+    <string name="house_of_joy">بيت الفرح</string>
+    <string name="blossom_flower">زهر الزهور</string>
+    <string name="celebrate_the_moments">احتفل باللحظات</string>
+    <string name="get_ready_to_amused">احصل على استعداد لتسلية</string>
+    <string name="delivering_your_emotions">تقديم مشاعرك</string>
+    <string name="strawberry_with_white_chocolate">الفراولة مع الشوكولاته البيضاء</string>
+    <string name="it_contain_white_chocolate">أنه يحتوي على الشوكولاته البيضاء</string>
+    <string name="twenty_three">ثلاثة و عشرون</string>
+    <string name="four_gram">أربعةز</string>
+    <string name="twelf_gram">إثنا عشرز</string>
+    <string name="four_point_five">أربعة.خمسة</string>
+    <string name="two">إثنان</string>
+    <string name="order_history_date">واحد-يناير-ألفين و تسعة عشر</string>
+    <string name="package_start_date">واحد-يناير-ألفين و تسعة عشر</string>
+    <string name="package_end_date">واحد-فبراير-ألفين و تسعة عشر</string>
+    <string name="rating_title">تقييم</string>
+    <string name="multi_restaurant">مطعم متعدد</string>
+    <string name="single_restaurant">مطعم مفرد</string>
+    <string name="three_point_four">ثلاثة.أربعة</string>
+    <string name="i_agree_to_the_terms_and_conditions">أوافق على الشروط</string>
+    <string name="checkout">الدفع</string>
+    <string name="change_language">غير اللغة</string>
+    <string name="current_selection">الاختيار الحالي هو:</string>
+    <string name="please_select_atleast_two">يرجى اختيار مطعمين على الأقل!</string>
+    <string name="please_confirm_your_country_code_amp_enter_your_phone_number"><![CDATA[Please confirm your country code & enter your phone number]]></string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="please_enter_the_verification_code_sent_n_to">Please enter the verification code sent  to</string>
+    <string name="address">Address</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="location">Location</string>
+    <string name="BMI">BMI</string>
+
+    <string-array name="faq_serialno">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+    </string-array>
+
+    <string-array name="faq_title">
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+    </string-array>
+
+    <string-array name="faq_subtitle">
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+        <item>أبجد هوز دولوم</item>
+    </string-array>
+
+</resources>
